@@ -1,0 +1,23 @@
+{
+  "name": "anit",
+  "version": "0.3.1",
+  "description": "This is small jQuery plugin integrates amazing libraries animate.css and waypoints into one interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j1exus/anit.git"
+  },
+  "author": "Aleksey Aksiutik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j1exus/anit/issues"
+  },
+  "homepage": "https://github.com/j1exus/anit#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^1.5.4"
+  }
+}
